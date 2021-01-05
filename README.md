@@ -8,7 +8,7 @@ Projeto tem como finalidade o cadastro de professores que desejam dar aulas part
 Alunos podem ingressar na platorma não necessitando acesso prévio escolhendo a aula e professor que deseja ter aula, após a escolha o mesmo poderá entrar em contato direto com o professor.
 
 ## Tecnologias utilizadas
-[NodeJS](https://nodejs.org/en/)  
-[ReactJS](https://pt-br.reactjs.org/)
-[React Native](https://reactnative.dev/)
-[Expo](https://reactnative.dev/)
+- [NodeJS](https://nodejs.org/en/)  
+- [ReactJS](https://pt-br.reactjs.org/)  
+- [React Native](https://reactnative.dev/)  
+- [Expo](https://reactnative.dev/)
